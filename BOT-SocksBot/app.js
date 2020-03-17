@@ -4,4 +4,4 @@ console.log("Iniciando bot :)");
 
 
 // Args: (url, optionID, protection, socksFilePath, amount)
-botPoll('https://www.strawpoll.me/17311284', 1, true, join(__dirname, 'socks.txt'));
+botPoll('https://www.strawpoll.me/19550123', 100, true, join(__dirname, 'socks.txt'));
